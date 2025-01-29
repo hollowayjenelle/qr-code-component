@@ -3,27 +3,35 @@
   height: 500px;
   background-color: white;
   padding: 16px 16px 40px 16px;
+  border-radius: 20px;
 }
 
 .cardImg {
   width: 288px;
   height: 288px;
+  border-radius: 10px;
 }
 
 .cardText {
   text-align: center;
   margin-top: 24px;
   font-family: "Outfit", sans-serif;
+  padding: 0px 16px;
 }
 
 .cardHeading {
   font-weight: 700;
   font-size: 22px;
   color: #1f314f;
+  margin: 0;
+  line-height: 120%;
 }
 
 .cardParagraph {
   font-weight: 400;
   font-size: 15px;
   color: #68778d;
+  line-height: 140%;
+  margin-top: 16px;
+  margin-bottom: 0;
 }
