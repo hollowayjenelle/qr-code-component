@@ -1,0 +1,29 @@
+.cardContainer {
+  width: 320px;
+  height: 500px;
+  background-color: white;
+  padding: 16px 16px 40px 16px;
+}
+
+.cardImg {
+  width: 288px;
+  height: 288px;
+}
+
+.cardText {
+  text-align: center;
+  margin-top: 24px;
+  font-family: "Outfit", sans-serif;
+}
+
+.cardHeading {
+  font-weight: 700;
+  font-size: 22px;
+  color: #1f314f;
+}
+
+.cardParagraph {
+  font-weight: 400;
+  font-size: 15px;
+  color: #68778d;
+}

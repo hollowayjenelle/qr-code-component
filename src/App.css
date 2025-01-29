@@ -1,6 +1,19 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
   background-color: #d5e1ef;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  place-items: center;
 }
 
 .App-logo {
